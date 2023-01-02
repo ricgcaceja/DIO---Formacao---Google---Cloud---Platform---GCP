@@ -17,5 +17,5 @@ Repositório criado para compartilhar o meu progresso no treinamento "Google Clo
 
 <div align="center" style="display: inline_block"><br>  
      <img align="center" alt="Ricardo-java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
-     <p align="center">"Java Developer"</p>
+     <p align="center">"Google Cloud Platform (GCP)"</p>
 </div
